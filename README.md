@@ -1,2 +1,3 @@
-#ccomp1
-# ccomp1
+#REPOSITORIO
+# curso de ccomp 1
+huhuh
